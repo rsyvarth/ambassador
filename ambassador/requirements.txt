@@ -4,7 +4,7 @@ flask==0.12.3
 gunicorn==19.8.1
 jinja2==2.9.6
 jsonschema==2.6.0
-pyyaml==3.12
+pyyaml==5.1
 scout.py==0.3.0
 semantic-version==2.6.0
 kubernetes==6.0.0
